@@ -320,7 +320,7 @@
                                                 </h3>
 
                                                 <p>
-                                                    In case of any technical issues, please raise a support ticket by emailing support@fitsigma.com or from your service dashboard to let us know of the same. You can also contact us on 9001021919 in case of urgent matters.
+                                                    In case of any technical issues, please raise a support ticket by emailing support@grizfit.com or from your service dashboard to let us know of the same. You can also contact us on 9001021919 in case of urgent matters.
                                                 </p>
 
 
@@ -332,7 +332,7 @@
                                                 </h3>
 
                                                 <p>
-                                                    In case of any question or complaint email at support@fitsigma.com
+                                                    In case of any question or complaint email at support@grizfit.com
                                                 </p>
                                             </div>
                                             <div class="clearfix"></div>
