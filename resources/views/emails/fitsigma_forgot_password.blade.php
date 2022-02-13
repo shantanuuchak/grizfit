@@ -10,7 +10,7 @@
     -->
     <meta name="viewport" content="width=device-width"/>
     <style type="text/css">
-        @import url('http://fonts.googleapis.com/css?family=Open+Sans');
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans');
     </style>
     <style type="text/css">
         /*********************************************************************
