@@ -764,7 +764,7 @@
                                                 <table width="180px" class="four columns">
                                                     <tr>
                                                         <td class="vertical-middle" style="color: #fff">
-                                                            &copy; Fitsigma
+                                                            &copy; Grizfit
                                                         </td>
                                                     </tr>
                                                 </table>

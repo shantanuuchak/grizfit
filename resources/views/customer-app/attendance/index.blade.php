@@ -1,7 +1,7 @@
 @extends('layouts.customer-app.basic')
 
 @section('title')
-    Fitsigma | Customer Attendance
+    Grizfit | Customer Attendance
 @endsection
 
 @section('CSS')

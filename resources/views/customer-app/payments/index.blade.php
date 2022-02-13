@@ -1,7 +1,7 @@
 @extends('layouts.customer-app.basic')
 
 @section('title')
-    Fitsigma | Payments
+    Grizfit | Payments
 @endsection
 
 @section('CSS')
