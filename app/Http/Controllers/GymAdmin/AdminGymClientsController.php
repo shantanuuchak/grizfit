@@ -179,9 +179,9 @@ class AdminGymClientsController extends GymAdminBaseController
 
         $email = $request->get('email');
 
-        $eText = 'Your account is active on Fitsigma Customer Panel use the following credentials to access your account.<br>Email: '.$email.'<br>Password: 123456';
+        $eText = 'Your account is active on Grizfit Customer Panel use the following credentials to access your account.<br>Email: '.$email.'<br>Password: 123456';
 
-        $this->data['title'] = "Welcome to Fitsigma Customer Panel";
+        $this->data['title'] = "Welcome to Grizfit Customer Panel";
         $this->data['mailHeading'] = "Customer Created";
         $this->data['emailText'] = $eText;
         $this->data['url'] = '';

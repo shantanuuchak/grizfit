@@ -85,7 +85,7 @@
                                                     Your use of services offered by Froiden (referred to Services in this document) is subject to the terms of a legal agreement between you and Froiden. This page explains how the agreement is made up, and sets out some of the terms of that agreement (referred as Terms of Service (TOS) in this document).
                                                 </p>
                                                 <p>
-                                                    Froiden provides a platform for businesses called Fitsigma by which Merchant can manage their business.
+                                                    Froiden provides a platform for businesses called Grizfit by which Merchant can manage their business.
                                                 </p>
                                                 <p>
 
@@ -108,7 +108,7 @@
                                                 </h3>
 
                                                 <p>
-                                                    Froiden provides service called Fitsigma to manage day-to-day business work. By using Fitsigma, you agree to all the terms below.
+                                                    Froiden provides service called Grizfit to manage day-to-day business work. By using Grizfit, you agree to all the terms below.
                                                 </p>
                                             </div>
 
