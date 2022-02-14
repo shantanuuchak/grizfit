@@ -80,7 +80,7 @@
             @yield('content')
         </div>
         <!-- /.container-fluid -->
-        <footer class="footer text-center"> {{ \Carbon\Carbon::now()->format('Y') }} &copy; Fitsigma Customer App </footer>
+        <footer class="footer text-center"> {{ \Carbon\Carbon::now()->format('Y') }} &copy; Grizfit Customer App </footer>
     </div>
     <!-- /#page-wrapper -->
 </div>
