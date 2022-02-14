@@ -70,7 +70,7 @@ class MerchantTableSeeder extends Seeder
             'currency_id' => $currency->id,
             'mail_driver' => 'mail',
             'about' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-            'contact_mail' => 'abc@grizfit.com',
+            'contact_mail' => 'support@grizfit.com',
         ]);
 
         GymMerchantRole::create([
