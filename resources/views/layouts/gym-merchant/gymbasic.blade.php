@@ -242,9 +242,9 @@
                 <p> {{ ($gymSettings != '' && $gymSettings->about != '')? $gymSettings->about: '' }} </p>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 footer-block">
-                <h2>Video Tutorials</h2>
+                <h2>Contact</h2>
                 <div class="subscribe-form">
-                    <a href="{{ route('gym-admin.tutorial.index') }}" class="btn  btn-lg" >Watch Tutorial <i class="fa fa-youtube-play"></i></a>
+                    <a href="tel:+918689034255" class="btn  btn-lg" ><i class="fa fa-phone"></i> Call Now</a>
                 </div>
             </div>
             <div class="col-md-2 col-sm-6 col-xs-12 footer-block">
