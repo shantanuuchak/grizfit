@@ -87,12 +87,12 @@ class AdminGymClientsController extends GymAdminBaseController
         }, 8)->edit_column('first_name', function ($row) {
             if ($row->image != '') {
                 if($this->data['gymSettings']->local_storage == '0')
-                    return '<img style="width:50px;height:50px;" class="img-circle" src="'.$this->data['profileHeaderPath'].$row->image.'" alt="" />'. ucwords($row->first_name . ' ' . $row->last_name);
+                    return '<img style="width:50px;height:50px;display:none;" class="img-circle" src="'.$this->data['profileHeaderPath'].$row->image.'" alt="" />'. ucwords($row->first_name . ' ' . $row->last_name);
                 else
-                    return '<img style="width:50px;height:50px;" class="img-circle" src="'.asset('/uploads/profile_pic/master/').'/'.$row->image.'" alt="" />'. ucwords($row->first_name . ' ' . $row->last_name);
+                    return '<img style="width:50px;height:50px;display:none;" class="img-circle" src="'.asset('/uploads/profile_pic/master/').'/'.$row->image.'" alt="" />'. ucwords($row->first_name . ' ' . $row->last_name);
             }
             else {
-                return '<img src="'.asset('/fitsigma/images/').'/'.'user.svg" style="width:50px;height:50px;" class="img-circle" /> ' . ucwords($row->first_name . ' ' . $row->last_name);
+                return '<img src="'.asset('/fitsigma/images/').'/'.'user.svg" style="width:50px;height:50px;display:none;" class="img-circle" /> ' . ucwords($row->first_name . ' ' . $row->last_name);
             }
 
         })
